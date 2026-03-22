@@ -1,0 +1,13 @@
+# Core deep learning
+tensorflow>=2.12.0
+torch>=2.0.0
+
+# Hugging Face
+transformers>=4.35.0
+datasets>=2.14.0
+
+# NER evaluation
+seqeval>=1.2.2
+
+# Utilities
+numpy>=1.23.0
