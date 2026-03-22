@@ -13,7 +13,6 @@ A complete NER pipeline on the **CoNLL-2003** dataset comparing a from-scratch *
 - [Project Structure](#project-structure)
 - [Setup & Installation](#setup--installation)
 - [Usage](#usage)
-- [Task Breakdown](#task-breakdown)
 - [Model Architecture](#model-architecture)
 - [Dataset](#dataset)
 - [License](#license)
