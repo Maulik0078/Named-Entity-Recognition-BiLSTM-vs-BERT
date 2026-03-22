@@ -89,19 +89,6 @@ Or open it in **Google Colab** for free GPU access:
 
 > Replace `<YOUR_USERNAME>` with your GitHub username after uploading.
 
----
-
-## Task Breakdown
-
-| Task | Description | Points |
-|------|-------------|-------:|
-| Task 1 | Dataset exploration — load CoNLL-2003, print split sizes, explain BIO tags | 15 |
-| Task 2 | Data preprocessing — vocabulary building, integer encoding, padding | 15 |
-| Task 3 | BiLSTM model — build, train (3 epochs), evaluate with seqeval F1 | 25 |
-| Task 4 | BERT fine-tuning — subword tokenization, label alignment, training loop | 30 |
-| Task 5 | Comparison & analysis — performance, self-attention, compute trade-offs | 15 |
-
----
 
 ## Model Architecture
 
